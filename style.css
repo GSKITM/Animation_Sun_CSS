@@ -8,7 +8,7 @@
     background-size: cover;
     animation-duration: 8s;
     animation-name: fonas;
-    filter: brightness(50%)
+    filter: brightness(100%)
 }
 
 @keyframes fonas{
